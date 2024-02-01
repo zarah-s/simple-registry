@@ -39,7 +39,7 @@ const App = () => {
 
 
   if (isSuccess) {
-    toast.success("Message sent... waiting for confirmation")
+    toast.success("Awaiting confirmation")
 
   }
   function submit() {
